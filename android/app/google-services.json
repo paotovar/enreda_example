@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810589465291",
+    "project_id": "enreda-fbbb9",
+    "storage_bucket": "enreda-fbbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810589465291:android:d37a8fcea73a7b39bac94e",
+        "android_client_info": {
+          "package_name": "com.paolatovar.enreda_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810589465291-pu4516r51g112ki0t3pikorbnnfjvsot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONAzNPH4omg95V-HMXbXiiWrNKpv2ZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810589465291-pu4516r51g112ki0t3pikorbnnfjvsot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
